@@ -6,6 +6,7 @@ This repository contains basic JavaScript scripts for learning the fundamentals 
 ## Files
 
 - **0-javascript_is_amazing.js**: A simple script that prints “JavaScript is amazing” using `const` and `console.log`.
+- **1-multi_languages.js**: A script that prints three lines about C, Python, and JavaScript.
 
 ## How to Run
 
