@@ -12,6 +12,10 @@ This repository contains basic JavaScript scripts for learning the fundamentals 
 - **3-value_argument.js**: A script that prints the first argument passed to it: No argument: "No argument", With an argument: Prints the first argument.
 - **4-concat.js**: A script that prints two arguments passed to it in the format `arg1 is arg2`. If fewer than two arguments are passed, it will print `undefined is undefined`.
 - **5-to_integer.js**: A script that prints `My number: <argument>` if the first argument can be converted to an integer. If it cannot, it prints `Not a number`.
+- **6-multi_languages_loop.js**: A script that prints three lines using an array of strings and a loop:
+    - `"C is fun"`
+    - `"Python is cool"`
+    - `"JavaScript is amazing"`
 
 
 ## How to Run
