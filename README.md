@@ -21,7 +21,7 @@ This repository contains basic JavaScript scripts for learning the fundamentals 
    - If the first argument cannot be converted to a valid positive integer, it prints `"Missing number of occurrences"`.
 - **8-square.js**: This script prints a square using the character `X`. The size of the square is determined by the first argument passed to the script. If no valid argument is provided, it will print an error message.
 - **9-square.js**: This script adds two integers passed as arguments to the script and prints the result.
-
+- **10-factorial.js**: This project involves writing a JavaScript script that computes the factorial of a number using recursion. The script prints the computed factorial to the console.
 
 ## How to Run
 
