@@ -16,6 +16,9 @@ This repository contains basic JavaScript scripts for learning the fundamentals 
     - `"C is fun"`
     - `"Python is cool"`
     - `"JavaScript is amazing"`
+- **7-multi_c.js**
+   - Prints `"C is fun"` a specified number of times (based on the first argument passed to the script).
+   - If the first argument cannot be converted to a valid positive integer, it prints `"Missing number of occurrences"`.
 
 
 ## How to Run
